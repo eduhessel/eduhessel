@@ -7,4 +7,4 @@ I'm passionate about learning new things. Always open to new challenges.
 ## 🧠 "Um campeão não desiste, independente das circunstâncias" 📖
 
 -  📍  Living in São Paulo
-- 🤓 Trying to start my journey in programming world
+- 🤓  Starting my journey in programming world
