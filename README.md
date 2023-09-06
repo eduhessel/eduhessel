@@ -1,5 +1,5 @@
 # Hey, my name is Eduardo Hessel 👋🏻
-![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?eduhessel=anuraghazra&show_icons=true&theme=radical)
+![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduhessel&show_icons=true&theme=radical)
 
 ## Tecnologias que eu uso no meu dia
 
