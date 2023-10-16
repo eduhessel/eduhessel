@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eduardo Hessel</h1>
+<h1 align="center">Hi 👋🏻, I'm Eduardo Hessel</h1>
 <h3 align="center">A passionate UI Designer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduhessel&label=Profile%20views&color=0e75b6&style=flat" alt="eduhessel" /> </p>
