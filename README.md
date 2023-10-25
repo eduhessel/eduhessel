@@ -27,6 +27,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eduhessel&show_icons=true&locale=en&layout=compact" alt="eduhessel" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eduhessel&theme=dracula&show_icons=true" alt="eduhessel" /></p> ![Anurag's GitHub stats]() https://github-readme-stats.vercel.app/api?username=eduhessel&show_icons=true&locale=en 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eduhessel&theme=graywhite&show_icons=true" alt="eduhessel" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eduhessel&" alt="eduhessel" /></p>
