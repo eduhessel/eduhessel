@@ -1,10 +1,6 @@
 <h1 align="left">Hi 👋🏻, I'm Eduardo Hessel</h1>
 <h3 align="left">A Frontend Developer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eduhessel&label=Profile%20views&color=0e75b6&style=flat" alt="eduhessel" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eduhessel&theme=dracula" alt="eduhessel" /></a> </p>
-
 - 🌱 I’m currently learning **JS, Vue & React**
 
 - 👨‍💻 All of my projects are available at [https://www.eduardohessel.com/](https://www.eduardohessel.com/)
