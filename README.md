@@ -13,12 +13,6 @@
 
 - 📄 Know about my experiences [https://read.cv/duwdu](https://read.cv/duwdu)
 
-
-<div align="left">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eduhessel&show_icons=true&locale=en&layout=compact" alt="eduhessel" />
-  </p>
-</div>
 <div>
   <h2>Languages and Tools:</h2>
     <img src="https://img.shields.io/badge/nextjs-%2320232a.svg?style=for-the-badge&logo=nextjs&logoColor=white" alt="NextJS" />
