@@ -1,13 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0011ff,100:a82da8&text=What%27s%20up!👋🏻%20My%20name%20is%20Eduardo.&fontSize=48&fontColor=FFFFFF">
-<h1 align="center">A Frontend Developer from Brazil</h1>
+<h1 align="left">👋🏻 I'm Eduardo, a Frontend Developer from Brazil</h1>
 
 - 🌱 I’m currently learning **JS, Vue & React**
 
 - 👨‍💻 All of my projects are available at [https://www.eduardohessel.com/](https://www.eduardohessel.com/)
 
-- 📝 I regularly write articles on [https://medium.com/@eduardohessel](https://medium.com/@eduardohessel)
-
-- 💬 Ask me about **Figma, User experience, React, Vue**
+- 📝 I sometimes write articles on [https://medium.com/@eduardohessel](https://medium.com/@eduardohessel)
 
 - 📫 How to reach me **edu.hessel@hotmail.com**
 
