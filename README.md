@@ -1,6 +1,6 @@
 <h1 align="left">👋🏻 I'm Eduardo, a Frontend Developer from Brazil</h1>
 
-- 🌱 I’m currently learning **JS, Vue & React**
+- 🌱 I’m currently learning **JS, TS & React**
 
 - 👨‍💻 All of my projects are available at [https://www.eduardohessel.com/](https://www.eduardohessel.com/)
 
