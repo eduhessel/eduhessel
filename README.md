@@ -6,7 +6,7 @@
 
 - 📝 I sometimes write articles on [https://medium.com/@eduardohessel](https://medium.com/@eduardohessel)
 
-- 📫 How to reach me **deveduardohessel@gmail.com**
+- 📫 How to reach me **edu.hessel@hotmail.com**
 
 - 📄 Know about my experiences [https://read.cv/duwdu](https://read.cv/duwdu)
 
