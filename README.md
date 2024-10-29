@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **JS, TS & React**
 
-- 👨‍💻 All of my design projects are available at [https://eduardohesselportfolio.framer.website/](https://eduardohesselportfolio.framer.website/)
+- 👨‍💻 All of my design projects are available at [https://eduardohesselportfolio.framer.website/](https://eduardohessel.com.br/)
 
 - 📝 I sometimes write articles on [https://medium.com/@eduardohessel](https://medium.com/@eduardohessel)
 
