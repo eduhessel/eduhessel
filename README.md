@@ -2,11 +2,11 @@
 
 - 🌱 I’m currently learning **JS, TS & React**
 
-- 👨‍💻 All of my design projects are available at [https://eduardohessel.com.br/](https://eduardohessel.com.br/)
+- 👨‍💻 All of my design projects are available at [https://eduardohessel.com.br](https://eduardohessel.com.br)
 
 - 📝 I sometimes write articles on [https://medium.com/@eduardohessel](https://medium.com/@eduardohessel)
 
-- 📫 How to reach me **edu.hessel@hotmail.com**
+- 📫 How to reach me [deveduardohessel@gmail.com](mailto:deveduardohessel@gmail.com)
 
 - 📄 Know about my experiences [https://read.cv/duwdu](https://read.cv/duwdu)
 
